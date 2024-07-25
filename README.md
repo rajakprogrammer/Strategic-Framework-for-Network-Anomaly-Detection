@@ -1,5 +1,5 @@
 In the rapidly evolving digital landscape network
-security and efficiency are important especially with the increasingly widespread network anomalies that can cause severe
+security and efficiency are important especially with the increasingly widespread network anomalies that can cause severe
 performance degradation. This study introduces a hybrid machine learning approach that combines Random Forest and Naive
 Bayes algorithm to address anomaly detection challenges. Using
 the ’UNSW-NB15 1’ dataset, data preprocessing is performed,
